@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{Title}</title>
+</head>
+<body>
+    <header>
+        <h1>{Header}</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+ <main>
+        <section>
+            <h2>{Section1Title}</h2>
+            <p>{Section1Content}</p>
+        </section>
+        
+        <section>
+            <h2>{Section2Title}</h2>
+            <p>{Section2Content}</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; {Year} Your Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
